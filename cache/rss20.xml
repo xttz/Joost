@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generator="Joostina CMS" -->
+<rss version="2.0">
+	<channel>
+		<title>Joost Component</title>
+		<description>Joostina - современная система управления содержимым динамичных сайтов и мощная система управления порталами</description>
+		<link>http://joost.net.ms</link>
+		<lastBuildDate>Thu, 02 Feb 2012 00:15:45 0000</lastBuildDate>
+		<generator>Joostina CMS</generator>
+		<image>
+			<url>http://joost.net.ms/images/M_images/joostina_rss.png</url>
+			<title>Joostina CMS!</title>
+			<link>http://joost.net.ms</link>
+			<description>Joostina - современная система управления содержимым динамичных сайтов и мощная система управления порталами</description>
+		</image>
+		<item>
+			<title>Установка завершена!</title>
+			<link>http://joost.net.ms/index.php?option=com_content&amp;task=view&amp;id=1&amp;Itemid=32</link>
+			<description>Поздравляем! Если Вы видите это сообщение, то Joostina успешно установлена и готова к работе. Благодарим за выбор CMS Joostina, надеемся что она оправдает возложенные на неё ожидания.
+
+После установки система уже содержит некоторое количество встроенных расширений, все они настроены для быстрого начала работы. 
+
+</description>
+			<category>О Joostina - О Joostina</category>
+			<pubDate>Sun, 14 Oct 2007 11:54:06 0000</pubDate>
+		</item>
+		<item>
+			<title>Joostina 1.3.0</title>
+			<link>http://joost.net.ms/index.php?option=com_content&amp;task=view&amp;id=14&amp;Itemid=29</link>
+			<description>Мы рады представить вам CMS Joostina 1.3.0. Это очень очередная тестовая версия, дальше - только стабильный релиз. В ходе подготовки версии было выпущено уже 4 версии кандидата + эта версия для избранных, каждая из которых содержала значительные доработки и большое число исправленных ошибок.</description>
+			<category>Новости - Новости</category>
+			<pubDate>Sat, 31 Jan 2009 07:00:00 0000</pubDate>
+		</item>
+		<item>
+			<title>Планы по развитию</title>
+			<link>http://joost.net.ms/index.php?option=com_content&amp;task=view&amp;id=11&amp;Itemid=32</link>
+			<description>В данное время мы формируем ToDo-листы на следующие версии Joostina CMS, которые по мере готовности будут выкладываться на официальном сайте. Каждый пользователь может принять участие в формировании списка пожеланий к следующим версиям. Сделать это можно  на форуме поддержки или направив нам письмо с темой  пожелания для будущих версий . 
+</description>
+			<category>О Joostina - О Joostina</category>
+			<pubDate>Wed, 12 May 2004 11:54:06 0000</pubDate>
+		</item>
+		<item>
+			<title>Как помочь проекту</title>
+			<link>http://joost.net.ms/index.php?option=com_content&amp;task=view&amp;id=13&amp;Itemid=32</link>
+			<description>
+Тестирование и сообщение о найденных ошибках; 
+	Предложения технических реализаций; 
+	Написание статей, участие в разработке документации пользователя; 
+	Помощь в популяризации Joostina CMS; 
+	Материальная поддержка
+	Предлагайте свои варианты... 
+
+</description>
+			<category>О Joostina - О Joostina</category>
+			<pubDate>Thu, 29 Jan 2009 17:54:23 0000</pubDate>
+		</item>
+		<item>
+			<title>Система управления содержимым</title>
+			<link>http://joost.net.ms/index.php?option=com_content&amp;task=view&amp;id=2&amp;Itemid=30</link>
+			<description>Система управления содержимым/контентом (англ. Content management system, CMS) &amp;mdash; компьютерная программа, используемая для управления содержимым чего-либо (обычно это содержимое рассматривается как неструктурированные данные предметной задачи в противоположность структурированным данным, обычно находящимися под управлением СУБД) . Обычно такие системы используются для хранения и публикации большого количества документов, изображений, музыки или видео.
+</description>
+			<category>Статьи - В помощь веб-разработчику</category>
+			<pubDate>Sun, 28 Oct 2007 23:08:06 0000</pubDate>
+		</item>
+	</channel>
+</rss>
